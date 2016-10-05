@@ -1,2 +1,2 @@
 # scala_initials
-Learning scala
+Scala Programming
